@@ -3,7 +3,7 @@
  * main - finds and prints the first 98 Fibonacci numbers,
  * description - fibonacci
  * Return: ALways 0 (Success)
- */
+*/
 int main(void)
 {
 	unsigned long int i = 0, j = 1, k = 2, j_1 = 0, j_2 = 0, k_1 = 0, k_2 = 0;
