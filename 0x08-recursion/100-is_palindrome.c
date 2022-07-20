@@ -39,7 +39,3 @@ int is_palindrome(char *s)
 		return (1);
 	return (comparator(s, 0, _strlen_recursion(s) - 1));
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
